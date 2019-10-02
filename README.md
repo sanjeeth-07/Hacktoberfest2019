@@ -7,7 +7,7 @@ Support open source and earn a limited edition T-shirt!  👕 💻
 
 1. Fork this repository.
 2. Clone your forked repository to your local machine.
-3. Add your name in Contributors.md file.
+3. Add your name in CONTRIBUTORS.md file.
 4. Write these command on your terminal-
 ```
 git add -A
